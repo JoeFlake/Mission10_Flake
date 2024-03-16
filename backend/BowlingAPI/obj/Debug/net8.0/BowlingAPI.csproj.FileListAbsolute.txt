@@ -125,3 +125,4 @@ C:\Users\flake\source\repos\Mission10_Flake\backend\BowlingAPI\obj\Debug\net8.0\
 C:\Users\flake\source\repos\Mission10_Flake\backend\BowlingAPI\obj\Debug\net8.0\BowlingAPI.pdb
 C:\Users\flake\source\repos\Mission10_Flake\backend\BowlingAPI\obj\Debug\net8.0\BowlingAPI.genruntimeconfig.cache
 C:\Users\flake\source\repos\Mission10_Flake\backend\BowlingAPI\obj\Debug\net8.0\ref\BowlingAPI.dll
+C:\Users\flake\source\repos\Mission10_Flake\backend\BowlingAPI\obj\Debug\net8.0\BowlingAPI.sourcelink.json

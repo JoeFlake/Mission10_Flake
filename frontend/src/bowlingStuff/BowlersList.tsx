@@ -15,13 +15,17 @@ function Bowlerslist() {
 
   return (
     <div>
+      {' '}
+      {/* Add header */}
       <div className="row">
         <h3 className="text-centered">
           Here are the best bowlers for the Marlins and Sharks
         </h3>
       </div>
-      <br></br>
+      <br></br> {/* Add the table */}
       <table className="table table-striped table-bordered">
+        {' '}
+        {/* Add the table-bordered class directly to the table element */}
         <thead>
           <tr>
             <th>First Name</th>
@@ -41,6 +45,7 @@ function Bowlerslist() {
               <td>{b.bowlerFirstName}</td>
               <td>{b.bowlerMiddleInit}</td>
               <td>{b.bowlerLastName}</td>
+              {/* get to teamname from team */}
               <td>{b.team.teamName}</td>
               <td>{b.bowlerAddress}</td>
               <td>{b.bowlerCity}</td>

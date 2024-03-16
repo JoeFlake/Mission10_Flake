@@ -10,7 +10,7 @@ namespace BowlingAPI.Controllers
     {
         private IBowlingRepository _bowlingRepository;
 
-        public BowlingController(IBowlingRepository temp)
+        public BowlingController(IBowlingRepository temp) // constructor
         {
             _bowlingRepository = temp;
         }

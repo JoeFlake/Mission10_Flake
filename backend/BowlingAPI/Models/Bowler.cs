@@ -25,6 +25,7 @@ public partial class Bowler
 
     public int? TeamId { get; set; }
 
+    // connect to other tables
     public virtual ICollection<BowlerScore> BowlerScores { get; set; } = new List<BowlerScore>();
 
     public virtual Team? Team { get; set; }
